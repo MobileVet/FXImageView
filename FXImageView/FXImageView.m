@@ -155,6 +155,9 @@
     return self;
 }
 
+- (void)setHighlighted:(BOOL)highlighted {
+    
+}
 
 #pragma mark -
 #pragma mark Caching
